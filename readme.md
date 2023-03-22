@@ -42,3 +42,7 @@ The website will be responsible for:
     - image_url not null varchar(40)
 
 
+Color scheme to use:
+
+
+![colorScheme](https://user-images.githubusercontent.com/101194070/226772832-15dc7df9-ad11-4d2e-9d5f-bd6fab0c6064.png)
