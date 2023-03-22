@@ -1,6 +1,6 @@
 ## ANDROID APPSTORE
 
-# About this project
+# Description
 
 This is a web project that will be built for mobile app developers, where they can upload their 
 apps. This in turn will allow the developers to share their apps with friends, family, clients and employers.
