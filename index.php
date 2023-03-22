@@ -11,7 +11,7 @@
     <nav>
         <div class="index__logoHolder">
             <img src="./assets/images/logo.png" alt="">
-            <h3>MALX_TECH</h3>
+            <h3>AppStore</h3>
         </div>
 
         <div class="index__links">
